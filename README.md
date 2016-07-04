@@ -1,1 +1,1 @@
-
+Plugins for Akiura template
